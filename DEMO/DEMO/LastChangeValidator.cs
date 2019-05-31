@@ -14,6 +14,7 @@ namespace DEMO
             // pull database from registered DI Services
             //var userRepository = context.HttpContext.RequestServices
             //    .GetRequiredService<IUserRepository>();
+
             var userPrincipal = context.Principal;
 
             //look for the last changed claim

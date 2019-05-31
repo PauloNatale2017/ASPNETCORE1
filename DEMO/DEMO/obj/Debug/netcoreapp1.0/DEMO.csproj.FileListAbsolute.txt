@@ -8,3 +8,4 @@ C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.Assemb
 C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.AssemblyInfo.cs
 C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.dll
 C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.pdb
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.csprojAssemblyReference.cache

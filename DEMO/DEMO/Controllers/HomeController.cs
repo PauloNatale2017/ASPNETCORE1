@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DEMO.Controllers
 {
-    [Authorize(Policy ="Over21")]
+    [Authorize(Policy = "Over21")]
     public class HomeController : Controller
     {
         public IActionResult Index()
