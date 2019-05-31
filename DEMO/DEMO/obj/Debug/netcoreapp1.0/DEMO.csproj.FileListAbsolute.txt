@@ -1,0 +1,10 @@
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\bin\Debug\netcoreapp1.0\DEMO.deps.json
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\bin\Debug\netcoreapp1.0\DEMO.runtimeconfig.json
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\bin\Debug\netcoreapp1.0\DEMO.runtimeconfig.dev.json
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\bin\Debug\netcoreapp1.0\DEMO.dll
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\bin\Debug\netcoreapp1.0\DEMO.pdb
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.AssemblyInfoInputs.cache
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.AssemblyInfo.cs
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.dll
+C:\Users\paulo.natale\source\repos\DEMO\DEMO\obj\Debug\netcoreapp1.0\DEMO.pdb
